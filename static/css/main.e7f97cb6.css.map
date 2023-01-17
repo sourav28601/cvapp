@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e7f97cb6.css","mappings":"AAIA,UACE,sBACF,CAKA,kBACE,eACF","sources":["index.css"],"sourcesContent":["body {\n  font-family: 'Montserrat';\n}\n\ncode {\n  font-family: 'Montserrat';\n}\nh4{\n  font-weight: bold;\n}\n\nh1,h2,h3,h5,h6{\n  font-weight: bold;\n}"],"names":[],"sourceRoot":""}

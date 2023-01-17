@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cvapp/static/css/main.e7f97cb6.css",
+    "main.js": "/cvapp/static/js/main.5562516a.js",
+    "static/js/787.5d1af729.chunk.js": "/cvapp/static/js/787.5d1af729.chunk.js",
+    "index.html": "/cvapp/index.html",
+    "main.e7f97cb6.css.map": "/cvapp/static/css/main.e7f97cb6.css.map",
+    "main.5562516a.js.map": "/cvapp/static/js/main.5562516a.js.map",
+    "787.5d1af729.chunk.js.map": "/cvapp/static/js/787.5d1af729.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f97cb6.css",
+    "static/js/main.5562516a.js"
+  ]
+}
